@@ -34,7 +34,7 @@ INSERT INTO artists (name, genre) VALUES ('Nina Simone', 'Jazz');
 INSERT INTO albums (title, release_year, artist_id) VALUES ('Doolittle', 1989, 1);
 INSERT INTO albums (title, release_year, artist_id) VALUES ('Surfer Rosa', 1988, 1);
 INSERT INTO albums (title, release_year, artist_id) VALUES ('Waterloo', 1974, 2);
-INSERT INTO albums (title, release_year, artist_id) VALUES ('Super Trouper', 1980, 2);
+INSERT INTO albums (title, rpelease_year, artist_id) VALUES ('Super Trouper', 1980, 2);
 INSERT INTO albums (title, release_year, artist_id) VALUES ('Bossanova', 1990, 1);
 INSERT INTO albums (title, release_year, artist_id) VALUES ('Lover', 2019, 3);
 INSERT INTO albums (title, release_year, artist_id) VALUES ('Folklore', 2020, 3);
